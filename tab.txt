@@ -5,3 +5,4 @@ add
 edited and pushed
 pull
 solved
+resolve
