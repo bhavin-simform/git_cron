@@ -4,3 +4,4 @@ edit
 add
 edited and pushed
 pull
+solved
