@@ -1,8 +1,8 @@
 hello
 yo
-edit
+edited
 add
 edited and pushed
 pull
 solved
-resolve
+resolved
